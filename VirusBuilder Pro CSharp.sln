@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirusBuilder Pro CSharp", "VirusBuilder Pro CSharp.csproj", "{2CF0384E-3D98-4802-9D99-9F23A050223E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF0384E-3D98-4802-9D99-9F23A050223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF0384E-3D98-4802-9D99-9F23A050223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF0384E-3D98-4802-9D99-9F23A050223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF0384E-3D98-4802-9D99-9F23A050223E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFFF82B-25FD-4E81-ADE7-3C96708054DF}
+	EndGlobalSection
+EndGlobal
